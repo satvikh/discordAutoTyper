@@ -32,4 +32,3 @@ def countdown():
         print(f'You have {second} seconds to position your cursor:')
         time.sleep(1)
 
-interval=initialize()
